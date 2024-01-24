@@ -78,5 +78,7 @@ main {
   padding: 0 5px;
   font-family: impact, sans-serif;
   font-size: 2em;
+  text-transform: uppercase;
+  color: white;
 
 }

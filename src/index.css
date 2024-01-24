@@ -57,5 +57,8 @@ main {
   color: white;
   border: none;
   cursor: pointer;
+}
 
+.meme {
+  position: relative;
 }

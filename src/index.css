@@ -17,5 +17,6 @@ main {
   height: 65px;
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
   color: white;
+  padding: 20px;
 
 }

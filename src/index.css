@@ -70,5 +70,6 @@ main {
 
 .meme--text {
   position: absolute;
+  width: 80%;
 
 }

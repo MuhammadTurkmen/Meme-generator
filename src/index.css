@@ -41,3 +41,8 @@ main {
   gap: 17px;
   margin-bottom: 17px;
 }
+
+.form--input {
+  font-family: "Karla", sans-serif;
+
+}

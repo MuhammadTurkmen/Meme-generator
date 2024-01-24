@@ -23,5 +23,9 @@ main {
 .header--image {
   height: 100%;
   margin-right: 6px;
+}
 
+.header--title {
+  font-size: 1.25rem;
+  
 }

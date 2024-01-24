@@ -44,5 +44,6 @@ main {
 
 .form--input {
   font-family: "Karla", sans-serif;
+  border-radius: 5px;
 
 }

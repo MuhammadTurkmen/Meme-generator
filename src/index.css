@@ -46,5 +46,6 @@ main {
   font-family: "Karla", sans-serif;
   border-radius: 5px;
   border: 1px solid #D5D4D8;
+  text-indent: 5px;
 
 }
